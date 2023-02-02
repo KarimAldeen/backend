@@ -1,0 +1,59 @@
+{
+ 
+  "Slider": [
+    {
+      "src": "/HomeSlider/1.png",
+      "href": "/HomeSlider/3.png",
+      "h1": "غيّر للأسهل",
+      "h3": "كمّون لتوصيل منتجات السوبر ماركت ",
+      "p": "حمل تطبيق كمّون اليوم و أحصل على تجربة تسوق مريحة و سهلة و بأسعار مناسبة تصل إلى باب منزلك"
+    },
+    {
+      "src": "/HomeSlider/2.png",
+      "href": "/HomeSlider/5.png",
+      "h1": " السعر والجودة",
+      "h3": " طلبك بالوقت للي بدك و بأعلى جودة ",
+      "p": "بواسطة الموردين و الكباتن المتواجدين في مختلف أحياء المدن نستطيع ضمان التوصيل خلال مدة زمنية قصيرة "
+    },
+    {
+      "src": "/HomeSlider/4.png",
+      "href": "/HomeSlider/6.png",
+      "h1": " التنوع والعروض",
+      "h3": "  بيوفرلك الاف المنتجات افضل الروض ",
+      "p": " تستطيع تصفح آلاف المنتجات و مقارنة الأسعار حسب إحتياجاتك و إيجاد  العروض المتواجدة في الأسواق"
+    }
+  ],
+ 
+  
+  "Users": [
+    {
+      "id": 1,
+      "Username": "karim",
+      "email": "Karim@gmail.com",
+      "password": "karim",
+      "type": "Admin"
+    },
+    {
+      "id": 2,
+      "Username": "ibrahem",
+      "email": "ibrahem@gmail.com",
+      "password": "ibrahem",
+      "type": "employer"
+    },
+    {
+      "id": 3,
+      "Username": "suliman",
+      "email": "suliman@gmail.com",
+      "password": "suliman",
+      "type": "user"
+    },
+    {
+      "id": 4,
+      "Username": "fton",
+      "email": "fton@gmail.com",
+      "password": "fton",
+      "type": "user"
+    }
+  ]
+ 
+}
